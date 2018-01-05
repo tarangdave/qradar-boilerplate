@@ -21,8 +21,8 @@
             "url": "index"
         }
     ], 
-    "description": "Application to display hello world", 
-    "name": "Hello World", 
+    "description": "Application to display sample boilerplate", 
+    "name": "Boilerplate Editor", 
     "uuid": "f26fbef1-d10c-41c4-b405-fd5fdfc18351", 
     "version": "1.0"
 }
